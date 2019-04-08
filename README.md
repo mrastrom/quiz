@@ -2,7 +2,7 @@
 Try to solve the following, with an implemented algorithm. Optional programming language (preferably not PHP) a solution made in Python/Node/Java/JavaScript will be extra welcome.
 Do not have access to any pre made solution so you have to explain and advocate your coding efforts
 
-Taget från dailycodingproblem.com 
+Origin dailycodingproblem.com 
 
 Daily Coding Problem: Problem #23
 
