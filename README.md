@@ -1,5 +1,5 @@
 # Solve a problem
-Try to solve the following, with an implemented algorithm. Optional programming language (preferably not PHP) a solution made in Python/Node/Java/JavaScript will be extra welcome.
+Try to solve the following, with a runable, implemented algorithm. Optional programming language (preferably not PHP) a solution made in Python/Node/Java/JavaScript will be extra welcome.
 Do not have access to any pre made solution so you have to explain and advocate your coding efforts
 
 Origin dailycodingproblem.com 
